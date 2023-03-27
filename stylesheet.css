@@ -1,5 +1,15 @@
+span.page-nav {
+    display:inline-block;
+    padding: 3vh;
+    background-color: #aaa;
+    border-radius: 10px;
+    position: relative;
+    width: 20vh;
+    height: 20vh;
+    margin: 5px;
+}
 div.page-nav {
-    padding: 10vh;
-    background-color: red;
-    border-radius: 5px;
+    border-radius: 10px;
+    padding: 1vh;
+    background-color: #ddd;
 }
