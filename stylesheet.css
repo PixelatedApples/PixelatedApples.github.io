@@ -1,6 +1,6 @@
 div.page-nav {
     height: 10vh;
     width: 10vh;
-    color: red;
+    background-color: red;
     border-radius: 5px;
 }
